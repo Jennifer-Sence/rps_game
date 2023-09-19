@@ -49,3 +49,11 @@ background-color: #ff0000;
 #scissors{
     background-color: #4caf50;
 }
+
+#user-score{
+    color: #2196f3;
+}
+
+#computer-score{
+    color: #ff0000;
+}
